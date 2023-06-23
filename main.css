@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+title {text-align: center;
+    margin: auto;
+    margin-top: 1500px;
+    display: block;
+    background-color: rgb(7, 0, 0);
+    border: none;
+
+}
+body {
+    background-color: rgb(255, 55, 0);
+}
+
+.buttons {
+    text-align: center;
+    margin: auto;
+    margin-top: 500px;
+    display: block;
+}
+
+button {
+    background-color: rgb(7, 0, 0);
+    border: none;
+    color: rgb(250, 247, 247);
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.textToSpeak {
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    width: 400px;
+    display: block;
+}
+
+#textStory {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: rgb(10, 251, 82);
+    padding: 18px;
+    display: none;
+}
